@@ -41,6 +41,18 @@ void* handler_B(void*) {
 
 int main(int argc, const char * argv[])
 {
+/*
+#ifdef __APPLE__
+    if((mutex_A=sem_open("/sem_A",O_CREAT,0777,0))==SEM_FAILED) {
+        perror("sem_open");
+    }
+#elif __linux___
+    if (sem_init(mutex_A, 0, 0)==-1) {
+        perror("Error:");
+    }
+#elif _WIN32
+#endif
+*/
     if((mutex_A=sem_open("/sem_A",O_CREAT,0777,0))==SEM_FAILED) {
         perror("sem_open");
     }

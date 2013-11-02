@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6EF2D845-299D-49FF-B528-1F3B2C367F7D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>semaphore</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F541F5EC-4B8B-4D48-9A91-95D3EB8FD778</key>
+		<string>https://github.com/onidzelskyi/semaphore.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>semaphore.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F541F5EC-4B8B-4D48-9A91-95D3EB8FD778</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/onidzelskyi/semaphore.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F541F5EC-4B8B-4D48-9A91-95D3EB8FD778</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F541F5EC-4B8B-4D48-9A91-95D3EB8FD778</string>
+			<key>IDESourceControlWCCName</key>
+			<string>semaphore</string>
+		</dict>
+	</array>
+</dict>
+</plist>
